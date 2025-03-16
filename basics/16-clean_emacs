@@ -1,0 +1,3 @@
+Contenido de: 16-clean_emacs
+#!/bin/bash
+rm *~
