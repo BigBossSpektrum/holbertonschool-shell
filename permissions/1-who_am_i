@@ -1,2 +1,2 @@
-adduser Julien
-whoami
+#!/bin/bash
+adduser Julien whoami
