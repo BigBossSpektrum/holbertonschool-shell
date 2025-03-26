@@ -1,3 +1,2 @@
-
-77;30706;0c#!/bin/bash
+#!/bin/bash
 tail -n 1 iacta >> iacta
